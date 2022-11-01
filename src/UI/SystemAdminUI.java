@@ -13,7 +13,7 @@ import Model.PersonView;
 public class SystemAdminUI extends javax.swing.JFrame {
 
     /**
-     * Creates new form SystemAdminUi
+     * Creates new form 
      */
      PersonView register;
     public SystemAdminUI(PersonView register) {
