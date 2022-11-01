@@ -4,7 +4,7 @@
  */
 package UI;
 
-import Model.PersonView;
+import Model.PersonView;//import statement
 
 /**
  *
